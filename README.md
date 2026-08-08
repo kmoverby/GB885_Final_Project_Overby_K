@@ -1,5 +1,5 @@
 # GB885_Final_Project_Overby_K
-Data analysis of RUSH sportswear sales data. This project cleans and combines product, retailer, and sales tables to analyze 2020–2021 revenue, units sold, product performance, retailer performance, sales methods, seasonality, and geographic trends.
+Data analysis of RUSH sportswear sales data. This project cleans and combines product, retailer, and sales tables to analyze 2020–2021 revenue, units sold, product performance, retailer performance, seasonality, and geographic trends.
 
 # Project Overview
 
@@ -20,8 +20,11 @@ The final dataset combines product, retailer, location, sales, and profitability
 The project answers the following questions:
 
 What product category (product) had the highest sales (in dollars) in 2021? How much did it sell?
+
 What state had the highest sales (in dollars) of women's products in 2021? How much was it?
+
 What state had the highest sales (in dollars) of men's products in 2021? How much was it?
+
 What retailer purchased the most units in 2021? In 2020?
 
 # How to Run the Project
@@ -35,5 +38,3 @@ Upload the three CSV files when prompted.
 Run each notebook cell in order.
 
 Review the data-quality checks and analysis results.
-
-Download the cleaned dataset and Excel output files.
