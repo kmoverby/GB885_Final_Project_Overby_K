@@ -27,6 +27,18 @@ What state had the highest sales (in dollars) of men's products in 2021? How muc
 
 What retailer purchased the most units in 2021? In 2020?
 
+# Additional Insights
+
+Annual Performance 
+
+Monthly Sales
+
+Highest and Lowest Monthly Sales
+
+Regional Sales Performance
+
+Product Profitability
+
 # How to Run the Project
 
 Open GB885_Final_Project_Overby_K.ipynb in Google Colab.
